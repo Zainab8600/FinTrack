@@ -135,6 +135,32 @@ FinTrack/
 ├── package.json
 └── vite.config.js
 ```
+## 📸 Screenshots
+
+### 💻 Desktop
+
+![FinTrack Dashboard](public/screenshots/01-dashboard-desk.png)
+
+![FinTrack Analytics](public/screenshots/02-analytics-desk.png)
+
+![FinTrack Analytics Details](public/screenshots/03-analytics-desk.png)
+
+![FinTrack Transaction Part](public/screenshots/04-transactions-desk.png)
+
+![FinTrack Subscription](public/screenshots/05-subscription-desk.png)
+
+### 📱 Mobile
+
+![FinTrack Mobile Dashboard](public/screenshots/01-dashboard-mob.jpeg)
+
+![FinTrack Mobile Analytics](public/screenshots/02-analytics-mob.jpeg)
+
+![FinTrack Mobile Analytics Details](public/screenshots/03-analytics-mob.jpeg)
+
+![FinTrack Mobile Transaction Part](public/screenshots/04-transactions-mob.jpeg)
+
+![FinTrack Mobile Subscription](public/screenshots/05-subscription-mob.jpeg)
+
 
 ## 🔮 Future Improvements
 
