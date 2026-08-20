@@ -1,4 +1,7 @@
 # FinTrack 💰
+## 🌐 Live Demo
+
+[View FinTrack Live](https://vercel.com/manal-s-projects6/fin-track/GCyStkUDzwt9uyaxynjZo6D1FjfP)
 
 A modern personal finance dashboard built with React to help users track income, manage expenses, monitor budgets, and keep an eye on recurring subscriptions.
 
